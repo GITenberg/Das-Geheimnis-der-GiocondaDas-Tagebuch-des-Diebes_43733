@@ -1,0 +1,27 @@
+_repo: Das-Geheimnis-der-GiocondaDas-Tagebuch-des-Diebes_43733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schwitzky, Ernst Bernhard Joseph Theodor
+    alias: Schwitzky, Ernst B.
+    birthdate: 1884
+    gutenberg_agent_id: '42376'
+    url: http://www.gutenberg.org/2009/agents/42376
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43733'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leonardo, da Vinci, 1452-1519. Mona Lisa -- Fiction'
+- !lcsh 'Art thefts -- France -- Paris -- Fiction'
+- !lcc 'PT'
+title: 'Das Geheimnis der Gioconda: Das Tagebuch des Diebes'
+url: http://www.gutenberg.org/ebooks/43733

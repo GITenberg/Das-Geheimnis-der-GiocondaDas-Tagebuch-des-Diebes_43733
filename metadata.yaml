@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42376'
     url: http://www.gutenberg.org/2009/agents/42376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43733#Das-Geheimnis-der-GiocondaDas-Tagebuch-des-Diebes
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
